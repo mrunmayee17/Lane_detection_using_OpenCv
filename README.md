@@ -1,4 +1,4 @@
-# Vehicle_lane_detection
+
 # Lane Detection with OpenCV
 
 This project demonstrates lane detection in images and videos using OpenCV. It includes several utility functions for edge detection, region of interest selection, and optimizing lane lines in a video.
